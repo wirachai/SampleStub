@@ -41,7 +41,6 @@
   <ItemGroup>
     <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Services\UserService.cs" />
-    <Compile Include="Repositorys\UserRepository_Stub.cs" />
     <Compile Include="Repositorys\IUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
