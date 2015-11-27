@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleStub", "SampleStub\SampleStub.csproj", "{5716F437-4BD6-405B-AA9E-56CBB9DC6896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleStubTest", "SampleStubTest\SampleStubTest.csproj", "{A4509D28-F5F6-4EF3-A514-068D878257A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleStub.Test", "SampleStubTest\SampleStub.Test.csproj", "{A4509D28-F5F6-4EF3-A514-068D878257A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

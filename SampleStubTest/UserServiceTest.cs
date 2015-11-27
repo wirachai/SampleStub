@@ -1,12 +1,7 @@
 ﻿using NUnit.Framework;
-using SampleStub;
 using SampleStub.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace SampleStubTest
+namespace SampleStub.Test
 {
     [TestFixture]
     public class UserServiceTest
