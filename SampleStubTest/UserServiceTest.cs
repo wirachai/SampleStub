@@ -2,10 +2,6 @@
 using NUnit.Framework;
 using SampleStub;
 using SampleStub.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace SampleStubTest
 {
@@ -14,6 +10,7 @@ namespace SampleStubTest
     {
         private string validUser = "username";
         private string validPass = "password";
+
         [Test]
         public void IsValidLogin_ShouldReturnTrue_WhenExistAccount()
         {
